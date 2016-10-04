@@ -1,1 +1,1 @@
-#Regex Dynamic Value (Paw Extension)
+## Remove Newlines Dynamic Value (Paw Extension)
